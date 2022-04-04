@@ -1,0 +1,11 @@
+$bg-primary: #c0e6d8;
+$bg-button: #68cb97;
+$bg-input: #f4fafa;
+$text-error: #f84949;
+
+$mobile-width: 768px;
+
+@import "~bootstrap/scss/bootstrap";
+@import "./partials/header";
+@import "./partials/forms";
+@import "./partials/footer";
